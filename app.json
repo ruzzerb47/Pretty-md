@@ -1,6 +1,6 @@
 {
-  "name": "Pretty-md",
-  "description": "prettt-md, your friendly assistant!",
+  "name": "REAL HACKER",
+  "description": "REAL HACKER, your friendly assistant!",
   "logo": "https://files.catbox.moe/tdiasl.jpg",
   "keywords": [],
   "repository": "https://github.com/superstar-zimtk/Pretty-md",
@@ -15,7 +15,7 @@
   },
 "env": {
   "SESSION_ID": {
-    "description": "Must begin with 'XHYPHER:~'.",
+    "description": "Must begin with 'RUZZER B47:~'.",
     "value": "",
     "required": true
   }
